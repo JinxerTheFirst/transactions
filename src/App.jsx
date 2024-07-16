@@ -8,7 +8,7 @@ import NotFound from "./component/NotFound/NotFound";
 
 const router = createBrowserRouter([
   {
-    path: "transactions",
+    path: "",
     element: <LayOut />,
     children: [
       {
